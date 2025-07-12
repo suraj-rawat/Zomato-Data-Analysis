@@ -15,7 +15,7 @@ The data for this project is sourced from the Kaggle dataset:
   
 ## Data Exploration with SQL
 
-While exploring the Swiggy dataset, the following tasks were undertaken:
+While exploring the Zomato dataset, the following tasks were undertaken:
 
 1. Inspecting the Dataset
    - Verified table structures, column names, and data types.
